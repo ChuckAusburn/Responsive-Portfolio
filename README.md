@@ -1,2 +1,4 @@
 # Responsive-Portfolio
-Homework 2 Responsive Repo
+Updated 12/14/18 
+
+Includes The Psychic Game, Train Scheduler, Raider Trivia Game, Property Mgmt Request System and The Crystal Collector
